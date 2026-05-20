@@ -2,8 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Aroldo%20Mucare%20Moraes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=Sou+Aroldo+Mucare+Moraes;Estudante+de+Desenvolvimento+de+Sistemas+pela+ETEC;Foco+em+Banco+de+Dados+e+SQL;Em+constante+evolu%C3%A7%C3%A3o+na+%C3%A1rea+de+desenvolvimento+de+sistemas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=Estudante+de+Desenvolvimento+de+Sistemas+pela+ETEC;Foco+em+Banco+de+Dados+e+SQL;Em+constante+evolu%C3%A7%C3%A3o+na+%C3%A1rea+de+desenvolvimento+de+sistemas" alt="Typing SVG" />
 
+</div>
+
+<div align="center">
+  
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQwbDNnOTkzdzZsYm1tMDNiNzRiMzdhOXZzeGMzZ2xobTh5amdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" />
+  
 </div>
 
 ---
