@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou Aroldo Mucare Moraes!
+# Olá, eu sou Aroldo Mucare Moraes!
 
 Desenvolvedor em formação, cursando **Desenvolvimento de Sistemas pela ETEC**.
 
@@ -48,9 +48,9 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AroldoMoraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AroldoMoraes&show_icons=true&theme=radical"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroldoMoraes&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroldoMoraes&layout=compact&theme=radical"/>
 
 </div>
 
