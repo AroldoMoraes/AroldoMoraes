@@ -48,12 +48,13 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AroldoMoraes&show_icons=true&theme=radical"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AroldoMoraes&theme=radical"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroldoMoraes&layout=compact&theme=radical"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AroldoMoraes&theme=radical"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AroldoMoraes&theme=radical"/>
 
 </div>
-
 ---
 
 ## Linguagens e habilidades
