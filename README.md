@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Aroldo%20Mucare%20Moraes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 💜 Olá, eu sou Aroldo Mucare Moraes!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas+pela+ETEC;Foco+em+SQL%2C+Web+e+Sistemas;HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Node.js+%7C+SQL" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+SQL%2C+Web+e+Sistemas" alt="Typing SVG" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETEC-5A189A?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Dominante-3C096C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
 ---
 
-## 💜 Sobre mim
+## 🟣 Sobre mim
 
 Desenvolvedor em formação, cursando **Desenvolvimento de Sistemas pela ETEC**.
 
@@ -27,27 +31,35 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## ⚙️ Tecnologias que utilizo
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/HTML5-3C096C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/CSS3-5A189A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-C77DFF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 &nbsp;
-<img src="https://img.shields.io/badge/C%23-5A189A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-7B2CBF?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-3C096C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/SQL-240046?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 
 </p>
 
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,nodejs,mysql,github,vscode&theme=dark" />
+
+</div>
+
 ---
 
-## 🟣 Pac-Man Contribution Graph
+## 🟪 Pac-Man Contribution Graph
 
 <p align="center">
   <picture>
@@ -63,6 +75,10 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AroldoMoraes&theme=radical"/>
+
+<br><br>
+
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AroldoMoraes&theme=radical"/>
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AroldoMoraes&theme=radical"/>
@@ -71,18 +87,40 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AroldoMoraes&theme=radical"/>
 
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AroldoMoraes&theme=radical&utcOffset=-3"/>
+
 </div>
 
 ---
 
 ## 💻 Linguagens e habilidades
 
-- **SQL** — linguagem principal e maior domínio  
-- **HTML** — estruturação de páginas web  
-- **CSS** — estilização e responsividade  
-- **JavaScript** — interatividade no front-end  
-- **C#** — desenvolvimento de aplicações  
-- **Node.js** — desenvolvimento back-end  
+<table>
+  <tr>
+    <td><b>SQL</b></td>
+    <td>Linguagem principal e maior domínio</td>
+  </tr>
+  <tr>
+    <td><b>HTML</b></td>
+    <td>Estruturação de páginas web</td>
+  </tr>
+  <tr>
+    <td><b>CSS</b></td>
+    <td>Estilização e responsividade</td>
+  </tr>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td>Interatividade no front-end</td>
+  </tr>
+  <tr>
+    <td><b>C#</b></td>
+    <td>Desenvolvimento de aplicações</td>
+  </tr>
+  <tr>
+    <td><b>Node.js</b></td>
+    <td>Desenvolvimento back-end</td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +129,7 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 <p align="left">
 
 <a href="mailto:aroldo.m.moraes@unesp.br" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/GMAIL-3C096C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -101,7 +139,7 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/aroldo_mucare/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-C77DFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/INSTAGRAM-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </p>
@@ -116,6 +154,6 @@ Continuar evoluindo na área de desenvolvimento de sistemas, aplicando conhecime
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2CBF,100:240046&height=120&section=footer"/>
 
 </div>
