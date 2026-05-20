@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Aroldo%20Mucare%20Moraes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Desenvolvimento+de+Sistemas+pela+ETEC;Foco+em+SQL%2C+Web+e+Sistemas;HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Node.js+%7C+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=SQL+como+linguagem+principal;Banco+de+Dados+%7C+Consultas+%7C+Sistemas;Foco+em+estrutura%C3%A7%C3%A3o+e+manipula%C3%A7%C3%A3o+de+dados;Maior+dom%C3%ADnio+em+SQL" alt="Typing SVG" />
 
 <br><br>
 
@@ -33,25 +33,7 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 ## ⚙️ Tecnologias que utilizo
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-3C096C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-5A189A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-&nbsp;
-<img src="https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-7B2CBF?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-240046?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-
-</p>
-
-<br>
-
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,nodejs,mysql,github,vscode&theme=dark" />
 
