@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Aroldo%20Mucare%20Moraes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=780&lines=SQL+como+linguagem+principal;Banco+de+Dados+%7C+Consultas+%7C+Sistemas;Foco+em+estrutura%C3%A7%C3%A3o+e+manipula%C3%A7%C3%A3o+de+dados;Maior+dom%C3%ADnio+em+SQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=850&lines=Oi%2C+meu+nome+%C3%A9+Aroldo+Mucare+Moraes;Meu+foco+%C3%A9+em+Banco+de+Dados+e+SQL;Estudante+de+Desenvolvimento+de+Sistemas+pela+ETEC;Buscando+evoluir+como+desenvolvedor+de+sistemas" alt="Typing SVG" />
 
 <br><br>
 
