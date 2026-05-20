@@ -41,7 +41,6 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AroldoMoraes/AroldoMoraes/output/pacman-contribution-graph.svg">
   </picture>
 </p>
----
 
 ## 📊 GitHub Stats
 
