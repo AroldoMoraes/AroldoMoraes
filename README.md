@@ -74,16 +74,16 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
-<a href="mailto:aroldo.m.moraes@unesp.br">
-  <img src="https://img.shields.io/badge/Email-aroldo.m.moraes@unesp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:aroldo.m.moraes@unesp.br" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="50" height="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aroldo-mucare-moraes-620690241/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Aroldo%20Mucare%20Moraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 
 <a href="https://www.instagram.com/aroldo_mucare/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@aroldo__mucare-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50"/>
 </a>
 
 </div>
