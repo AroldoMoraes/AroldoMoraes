@@ -48,13 +48,9 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AroldoMoraes&theme=radical"/>
-
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AroldoMoraes&theme=radical"/>
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AroldoMoraes&theme=radical"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AroldoMoraes&theme=radical"/>
 
 </div>
 ---
