@@ -34,11 +34,13 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 ## Pac-Man Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AroldoMoraes/AroldoMoraes/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AroldoMoraes/AroldoMoraes/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AroldoMoraes/AroldoMoraes/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
@@ -46,9 +48,9 @@ Tenho foco em criar soluções modernas, funcionais e bem estruturadas, utilizan
 
 <div align="center">
 
-![Aroldo GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AroldoMoraes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=false)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroldoMoraes&layout=compact&theme=radical"/>
 
 </div>
 
