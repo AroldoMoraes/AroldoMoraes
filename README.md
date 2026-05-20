@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQwbDNnOTkzdzZsYm1tMDNiNzRiMzdhOXZzeGMzZ2xobTh5amdnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="300" />
+<img src="https://camo.githubusercontent.com/a5154c19c2d1924dcde804a6f9ec7e1d3468fc76726ce1fa0562a91e54c42fb1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" width="300" />
   
 </div>
 
